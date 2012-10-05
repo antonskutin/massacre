@@ -973,7 +973,7 @@ enum SMARTAI_TARGETS
     SMART_TARGET_OWNER_OR_SUMMONER              = 23,   // Unit's owner or summoner
     SMART_TARGET_THREAT_LIST                    = 24,   // All units on creature's threat list
     SMART_TARGET_END                            = 25,
-	SMART_TARGET_HOSTILE_RANDOM_PLAYER          = 26,    // Just any random target on our threat list player
+    SMART_TARGET_HOSTILE_RANDOM_PLAYER          = 26,   // Just any random target on our threat list player
     SMART_TARGET_HOSTILE_RANDOM_NOT_TOP_PLAYER  = 27    // Any random target except top threat player
 };
 
